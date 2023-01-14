@@ -31,4 +31,5 @@ CNN model:
 
 Feature Set: Raw signals
 Extractor: Librosa
-categorical_accuracy: 0.7038
+
+    #categorical_accuracy: 0.7038
